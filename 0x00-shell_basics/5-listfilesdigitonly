@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . --muneric-uid-gid
+ls -la . --numeric-uid-gid
